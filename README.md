@@ -1,4 +1,9 @@
 # Image-Gallery
 
-This Image Gallery is made by using HTML and CSS.
+Its's a simple image gallery.
+
+Technologies used:
+HTML
+CSS
+
 
