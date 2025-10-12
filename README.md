@@ -10,7 +10,7 @@ Responsive design for different screen sizes
 Click any image to view it in a lightbox
 Image titles and navigation inside the lightbox
 
-🛠️ Technologies Used
+Technologies Used
 HTML
 CSS
 jQuery Lightbox
